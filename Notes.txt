@@ -1,0 +1,14 @@
+1. djoser configuration done ( from docs )
+2. custom user models
+3. 
+
+
+
+
+
+
+
+
+Not done
+1. jwt token configuration ( from docs )
+2. 
